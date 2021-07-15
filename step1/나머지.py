@@ -1,0 +1,6 @@
+num1,num2,num3 = input().split()
+numa,numb,numc= int(num1),int(num2),int(num3)
+print((numa+numb)%numc)
+print(((numa%numc)+(numb%numc))%numc)
+print((numa*numb)%numc)
+print(((numa%numc)*(numb%numc))%numc)
