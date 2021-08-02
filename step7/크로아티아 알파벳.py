@@ -7,9 +7,4 @@ for i in range(len(data)):
     else:
         pass
 print(len(word))
-# for k in range(len(wordlist)):
-#     word = word.replace(wordlist[k],"")
-#     cnt+=1
-#
-# sum = len(word)
-# print(cnt+sum)
+
